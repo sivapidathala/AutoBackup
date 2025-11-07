@@ -12,7 +12,7 @@ Logs all actions for review
 Why is this Useful?
 It prevents data loss and also prevents the storage from being filled with old backups.
 B. How to Use It
-git clone https://github.com/A4671satya/Build-the-Automated-Backup-System.git
+git clone https://github.com/sivapidathala/AutoBackup.git
 cd Build-the-Automated-Backup-System
 Make script executable:
 
