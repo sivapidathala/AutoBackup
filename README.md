@@ -129,7 +129,7 @@ crontab -e
 
 ---
 
-## I. Verify backup integrity (step-by-step)
+## I. Verify backup integrity
 
 To verify a backup's checksum file:
 
@@ -142,7 +142,7 @@ If the output shows `OK`, the file is intact.
 
 ---
 
-## J. Restore a backup (step-by-step)
+## J. Restore a backup
 
 1. Choose the backup file you want to restore, for example `backup-2025-11-03-1120.tar.gz`.
 
