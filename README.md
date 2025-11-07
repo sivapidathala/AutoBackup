@@ -35,7 +35,7 @@
 
 ---
 
-## E. Quick installation (step-by-step)
+## E. Quick installation 
 
 1. Clone the repository:
 
@@ -76,7 +76,7 @@ Save changes and make sure the `BACKUP_DIR` exists or the script can create it.
 
 ---
 
-## G. Usage (step-by-step examples)
+## G. Usage 
 
 ### 1) Basic usage — make a backup of `~/Documents`
 
@@ -111,7 +111,7 @@ The script will print what it would do, but won't create archives or modify back
 
 ---
 
-## H. Scheduling with cron (step-by-step)
+## H. Scheduling with cron 
 
 1. Open your crontab:
 
